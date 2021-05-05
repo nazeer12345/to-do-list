@@ -1,0 +1,69 @@
+
+.container{
+    font:bold;
+    font-family:cursive;
+    font-size: 20px;
+}
+.logo{
+    top: 130px;
+left: 174px;
+width: 158px;
+height: 54px;
+/* background: transparent url('../assets/img/filed-logo-01.png') 0% 0% no-repeat padding-box; */
+opacity: 1;
+}
+.heading1{
+    display: flex;
+    padding: 5px;
+    flex-direction: row;
+    font-size: xx-large;
+}
+
+.heading2{
+    top: 422px;
+left: 174px;
+width: 456px;
+height: 68px;
+font: var(--unnamed-font-style-normal) normal medium var(--unnamed-font-size-28)/var(--unnamed-line-spacing-34) var(--unnamed-font-family-roboto);
+color: var(--unnamed-color-000000);
+text-align: left;
+font: normal normal medium 28px/34px Roboto;
+letter-spacing: 0.56px;
+color: #000000;
+opacity: 1;
+}
+
+.image1{
+    margin-top: -10%;
+    margin-left: 84%;
+    width: 140;
+    flex-direction: row;
+} 
+.Ellipse11{
+    /* padding-left: 920px; */
+    margin-top: 10%;
+margin-left: 920px;
+width: 80px;
+height: 80px;
+}
+.Ellipse9{
+    padding-left: 839px;
+
+}
+.Ellipse10{
+    padding-left: 875px;
+}
+.Ellipse8{
+    top: 118px;
+left: 976px;
+width: 370px;
+height: 366px;
+background: transparent url('../assets/img/Ellipse 11.svg') 0% 0% no-repeat padding-box;
+opacity: 0.6;
+}
+
+.container{
+    width: 50%;
+    height:20%
+    
+}
